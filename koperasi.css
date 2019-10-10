@@ -1,0 +1,60 @@
+.footer_icon img {
+    width: 25px;
+    height: 25px;
+}
+
+body {
+    padding: 0;
+}
+
+.navbar {
+    background-color: #FCC07e;
+}
+
+.nav-link:hover {
+    background-color: black;
+    transition: 0.3s;
+    border-radius: 2px;;
+}
+
+#collapsibleNavId a:hover {
+    color: white;
+    transition: 0.3s;
+}
+.dropdown-item:hover {
+    background-color: black;
+    transition: 0.3s;
+}
+
+.button {
+    background-color: black;
+}
+
+.card   {
+    border: none;;
+}
+
+.ymnt {
+    font-weight: bold;
+}
+
+.ymnt:hover {
+    font-weight: normal;
+    transition: 0.1s
+}
+
+h5  {
+    font-weight: bold;
+}
+
+.footer {
+    background-color: black;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.footer p {
+    font-size: 13px;
+}
